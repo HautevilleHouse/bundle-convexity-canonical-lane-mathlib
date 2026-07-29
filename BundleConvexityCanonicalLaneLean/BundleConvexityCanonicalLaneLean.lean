@@ -1,0 +1,14 @@
+import canonicalLaneMathlib.AdmissibleClass
+import BundleConvexityCanonicalLaneLean.BundleConvexityAnalyticFoundation
+import BundleConvexityCanonicalLaneLean.BundleConvexityDeepAnalyticConstruction
+import BundleConvexityCanonicalLaneLean.BundleConvexityEntropy
+import BundleConvexityCanonicalLaneLean.BundleConvexityFoundationalTheoremInhabitants
+import BundleConvexityCanonicalLaneLean.BundleConvexityRoute
+
+namespace HautevilleHouse
+namespace BundleConvexityCanonicalLaneLean
+
+-- Root module for BundleConvexity canonical lane
+
+end BundleConvexityCanonicalLaneLean
+end HautevilleHouse
